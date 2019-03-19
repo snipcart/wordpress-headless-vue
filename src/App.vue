@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    
+    <h1>A WordPress Headless + Vue.js Demo</h1>
     <div class="badge-container">
       <div v-for="badge in markers" :key="badge.name">
         <Badge :name="badge.name" :image="badge.image" />
@@ -46,6 +46,7 @@ html, body {
     margin: 0;
     height: 100%;
     background-color: #FAFAFA;
+    font-family: 'Roboto', sans-serif;
 }
 
 body {
@@ -53,9 +54,22 @@ body {
   margin-right: 15%;
 }
 
+#app > h1 {
+  text-align: center;
+  color: 212121;
+}
+
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+#footer{
+  text-align: center;
+  text-decoration: none;
+  color: 212121;
+}
+
+
 </style>
