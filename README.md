@@ -1,29 +1,22 @@
-# markers
+# WordPress & Vue.js: Headless Setup w/ WP REST API
 
-## Project setup
-```
-npm install
-```
+![wordpress-vue](https://snipcart.com/media/204208/wordpress-vue.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+It's a real breath of fresh air to see a mammoth of the web industry opening up to modern trends and new paradigms.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+I thought: how fun would it be to use WordPress as a headless CMS with Vue.js&mdash;beloved frontend framework of mine?
 
-### Run your tests
-```
-npm run test
-```
+A lot, it turns out!
 
-### Lints and fixes files
-```
-npm run lint
-```
+In this tutorial, I want to go further in-depth with that stack. 
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Steps:
+
+1. Creating models with custom fields in WordPress
+2. Building a custom endpoint for the WP REST API
+3. Setting up a Vue.js single-page application
+4. Hosting the app
+
+> Read the full tutorial [here]()
+
+> See the live demo [here](https://wordpress-vue.netlify.com/)
