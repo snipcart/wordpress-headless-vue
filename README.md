@@ -20,3 +20,6 @@ Steps:
 > Read the full tutorial [here]()
 
 > See the live demo [here](https://wordpress-vue.netlify.com/)
+
+
+Enjoy folks!
