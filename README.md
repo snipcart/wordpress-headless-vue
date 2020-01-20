@@ -17,7 +17,7 @@ Steps:
 3. Setting up a Vue.js single-page application
 4. Hosting the app
 
-> Read the full tutorial [here]()
+> Read the full tutorial [here](https://snipcart.com/blog/wordpress-vue-headless)
 
 > See the live demo [here](https://wordpress-vue.netlify.com/)
 
